@@ -1,2 +1,2 @@
-# OIBGRIP-TASK3
-TASK 3- TEMPRATURE CONVERTOR WEBSITE
+# Converter Celsius to Fahrenheit (1.0.0 release)
+
